@@ -41,10 +41,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 🤝 Contributions are welcome! If you want to help, feel free to suggest changes or open an issue.
 
-## Contact
-
-For support or inquiries, join our Discord community or reach out via email at support@flowservice.xyz.
-
 ---
 
 *Ensure to install all necessary dependencies and follow the setup instructions for the best experience!*
