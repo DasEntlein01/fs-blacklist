@@ -16,7 +16,11 @@ The **Blacklist Script** is a script for services that can now blacklist Server 
 ## Showcase Video
 
 🎥 **Check out our showcase video** to see the Blacklist Script in action:  
-[Watch]([https://www.youtube.com/watch?v=your_video_id](https://dasentlein.isfucking.pro/wnxKmE.mp4)) <!-- Replace with your video link -->
+[Watch](https://dasentlein.isfucking.pro/wnxKmE.mp4) <!-- Replace with your video link -->
+<video width="320" height="240" controls>
+  <source src="https://dasentlein.isfucking.pro/wnxKmE.mp4" type="video/mp4">
+</video>
+
 
 ### Need help installing? DM me on Discord `dasentlein_backup` or open Issue Tab
 
